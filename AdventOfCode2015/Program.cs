@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Problem12.part1();
-            Problem12.part2();
+            Problem14.part1();
+            Problem14.part2();
         }
     }
 }
